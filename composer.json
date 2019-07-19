@@ -1,0 +1,11 @@
+{
+  "name": "d3/oxideshop-demodata-ce-replacement",
+  "description": "Empty replacement for the CE demo data when not in use",
+  "version": "1.0.0",
+  "require": {
+    "oxid-esales/oxideshop-metapackage-ce": "^6.0"
+  },
+  "replace": {
+    "oxid-esales/oxideshop-demodata-ce": "*"
+  }
+}
