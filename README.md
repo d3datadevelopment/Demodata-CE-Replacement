@@ -4,7 +4,7 @@ This package removes the unused OXID demodata package from the shop.
 
 ## Hint
 
-For installations of the Professional Edition and Enterprise Edition please use the packages under "d3/oxideshop-demodata-pe-replacement" (PE) or "d3/oxideshop-demodata-ee-replacement" (EE).
+For installations of the Professional Edition and Enterprise Edition please use the packages in "d3/oxideshop-demodata-pe-replacement" (PE) or "d3/oxideshop-demodata-ee-replacement" (EE).
 
 ## Install
 
