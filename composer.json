@@ -6,5 +6,6 @@
   },
   "replace": {
     "oxid-esales/oxideshop-demodata-ce": "*"
-  }
+  },
+  "license": "GPL-3.0"
 }
